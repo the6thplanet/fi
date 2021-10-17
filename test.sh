@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "\nExecuting the file: SUCCESSFULL" >> /var/www/html/index.html
+echo "\nExecuting the file: SUCCESSFUL" >> /var/www/html/index.html
