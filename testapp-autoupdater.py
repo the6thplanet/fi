@@ -1,1 +1,0 @@
-print("Successfully downloaded and executed python file: testapp-autoupdater")
